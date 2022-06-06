@@ -1,8 +1,10 @@
+# VISTA PREVIA 
 
+Esta app permite ingresar datos de los pacientes que ingresan en una guardia clinica
+Una vez llamados los pacientes el usuario tilda el checkbox y puede borrar de la lista al mismo.
+Cada paciente cuenta con un ID unico e irrepetible y una clasificacion segun su edad para guardia de Adultos o Pediatria.
 
-
-
-
+Esta App fue realizada como primer Proyecto en React , una variante al conocido ToDo.
 
 
 
