@@ -6,6 +6,9 @@ Cada paciente cuenta con un ID unico e irrepetible y una clasificacion segun su 
 
 Esta App fue realizada como primer Proyecto en React , una variante al conocido ToDo.
 
+![Sin título](https://user-images.githubusercontent.com/80891761/176029600-ccacf8c1-1912-43a7-8034-bbd50b39185e.png)
+
+
 
 
 
